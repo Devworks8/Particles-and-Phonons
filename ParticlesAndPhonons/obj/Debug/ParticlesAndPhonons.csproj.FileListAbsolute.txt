@@ -1,0 +1,7 @@
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\obj\Debug\ParticlesAndPhonons.csproj.CoreCompileInputs.cache
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\bin\Debug\ParticlesAndPhonons.exe.config
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\bin\Debug\ParticlesAndPhonons.exe
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\bin\Debug\ParticlesAndPhonons.pdb
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\obj\Debug\ParticlesAndPhonons.exe
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\obj\Debug\ParticlesAndPhonons.pdb
+D:\Repository\CSharp\GitRepo\Particles-and-Phonons\ParticlesAndPhonons\obj\Debug\ParticlesAndPhonons.csproj.AssemblyReference.cache

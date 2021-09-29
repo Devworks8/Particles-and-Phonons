@@ -6,11 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticlesAndPhonons", "ParticlesAndPhonons.csproj", "{D7DA919C-A322-4FDA-8448-30D301516937}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B490D27-27B9-4ADC-A7A8-BB8417ED246B}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Geometry2D.cs = C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Geometry2D.cs
-		C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Particle.cs = C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Particle.cs
-		C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Phonon.cs = C:\Users\lacha\Dropbox\School\Cambrian\2021-2022\OOP\Labs\L2\Phonon.cs
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestParticlesAndPhonons", "..\UnitTestParticlesAndPhonons\UnitTestParticlesAndPhonons.csproj", "{ADED6A3F-1D7A-402A-BADE-270511C8D035}"
 EndProject
